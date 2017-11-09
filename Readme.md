@@ -1,0 +1,3 @@
+# Smart Shoe
+
+The project was carried out as a part of HiDES Lab, International Institute of Information Technology, Bangalore under the guidance of Prof. Madhav Rao. The aim was to develop a prototype on Intel Edison platform for a smart shoe which establishes the relationship between the physical inactivity and exposure to polluted environment. The project involved both software and hardware experise. We incorporated accelerometers, pressure sensors and gas sensors and used naive machine learning algorithms like k-Nearest Neighbours and Decision Trees. The proposal was selected for the Intel VLSI-D IOT Ideathon 2015. 
